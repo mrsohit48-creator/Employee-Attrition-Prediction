@@ -1,0 +1,10 @@
+Metric,Value
+Original Rows,1470
+Cleaned Rows,1470
+Original Columns,35
+Missing Values,0
+Duplicate Rows,0
+Unique Employee IDs,1470
+Employees Who Left,237
+Employees Who Stayed,1233
+Attrition Rate,16.12%
